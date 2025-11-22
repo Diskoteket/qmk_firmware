@@ -1,0 +1,29 @@
+{
+    "name": "diskoteket 3x3 Macropad",
+    "vendorId": "0x646B",
+    "productId": "0x0001",
+    "matrix": {
+        "rows": 3,
+        "cols": 3
+    },
+    "layouts": {
+        "labels": [],
+        "keymap": [
+            [
+                "0,0",
+                "0,1",
+                "0,2"
+            ],
+            [
+                "1,0",
+                "1,1",
+                "1,2"
+            ],
+            [
+                "2,0",
+                "2,1",
+                "2,2"
+            ]
+        ]
+    }
+}
