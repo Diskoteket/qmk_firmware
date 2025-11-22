@@ -1,7 +1,7 @@
 {
     "keyboard_name": "3x3macropad",
     "manufacturer": "diskoteket",
-    "url": "https://github.com/diskoteket/3x3macropad",
+    "url": "https://github.com/Diskoteket/qmk_firmware/tree/master/keyboards/diskoteket/3x3macropad",
     "maintainer": "@diskoteket",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
